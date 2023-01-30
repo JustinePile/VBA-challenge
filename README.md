@@ -11,6 +11,8 @@
 | Ticker Symbol| Date   | Open  | High | Low   | Close  | Volume |  
 | ------------- |:------:| -----:| ----:|------ |:------:| ------:|
 
-![alt text](https://raw.githubusercontent.com/JustinePile/VBA-challenge/ff2edd95663aedf4f0f24950995e3e32901c1a98/2018.png "Screenshot of Macro Result")
+*VB Script is in the root directory along with screenshots*
+
+![Screenshot](https://raw.githubusercontent.com/JustinePile/VBA-challenge/ff2edd95663aedf4f0f24950995e3e32901c1a98/2018.png "Screenshot of Macro Result")
 
 
